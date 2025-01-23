@@ -9,7 +9,7 @@ To use the `reverseLib` in your project, follow these steps:
 2. **Modify Your Assembly Code**:  
    - In your assembly code, after the line `INCLUDE Irvine32.inc`, add the following line to include the reverse string functionality:
      ```asm
-     INCLUDE reverseLib.inc
+     INCLUDE reByte.inc
      ```
 
 3. **Add `reByte.lib` in Project Settings**:  
