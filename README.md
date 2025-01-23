@@ -1,9 +1,9 @@
 # Instructions for Using the Reverse String Library
 
-To use the `reverseLib` in your project, follow these steps:
+To use the `reByte` in your project, follow these steps:
 
 1. **Download and Include Files**:  
-   - Download the `reverseLib.asm` and `reverseLib.inc` files and include them in your `Irvine` folder where you have the `Irvine32` library.
+   - Download the these files and include them in your `Irvine` folder where you have the `Irvine32` library.
    - You can download the Irvine library from [this link](https://github.com/Zain-Zameer/irvine).
 
 2. **Modify Your Assembly Code**:  
